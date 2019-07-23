@@ -7,7 +7,7 @@ class BotWebChat extends Component {
     constructor(props) {
         super(props);
         this.directLine = new DirectLine({
-            token: 'L1SOy_0QAkE.wi9TzvfOJezpFp_sax7wF5tcESCKbI-w1SgoP2LwU5I'
+            token: 'your secret here'
         });
     }
     render() { 
