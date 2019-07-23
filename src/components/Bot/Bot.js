@@ -11,7 +11,7 @@ class Bot extends Component {
     constructor(props) {
         super(props);
         this.client = new DirectLine({
-            secret: "L1SOy_0QAkE.wi9TzvfOJezpFp_sax7wF5tcESCKbI-w1SgoP2LwU5I"
+            secret: "your secret here"
 
         });
         this.client.activity$.subscribe(
