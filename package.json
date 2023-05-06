@@ -11,7 +11,7 @@
     "adaptivecards": "^1.2.0",
     "bootstrap": "^4.3.1",
     "botframework-config": "^4.5.0",
-    "botframework-webchat": "^4.4.2",
+    "botframework-webchat": "^4.15.7",
     "node-sass": "^4.12.0",
     "react": "^16.8.6",
     "react-adaptivecards": "^0.1.3",
